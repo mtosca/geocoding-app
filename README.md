@@ -6,3 +6,4 @@ Small app to upload a .csv file with addresses, transform a string address into 
 - Flask
 - Pandas
 - Geopy - ArcGIS
+- Virtualenv
