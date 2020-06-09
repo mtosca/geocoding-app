@@ -7,3 +7,4 @@ Small app to upload a .csv file with addresses, transform a string address into 
 - Pandas
 - Geopy - ArcGIS
 - Virtualenv
+- Black (code formatter)
